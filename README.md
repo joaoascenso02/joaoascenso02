@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![WELCOME](images/welcome.png)
+
 <!--
 **joaoascenso02/joaoascenso02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
